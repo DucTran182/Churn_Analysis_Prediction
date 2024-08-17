@@ -32,4 +32,5 @@ Run the Task 1 - Parse Log.py to select only all of following features for analy
 5. Event 
 6. ItemID
 7. RealTimePlaying 
+
 You will have a new log file with all above features as column name.
