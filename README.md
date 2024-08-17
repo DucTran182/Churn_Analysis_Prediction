@@ -34,3 +34,6 @@ Run the Task 1 - Parse Log.py to select only all of following features for analy
 7. RealTimePlaying 
 
 You will have a new log file with all above features as column name.
+
+### Log Combined
+Join the new log file with user_info.txt using Task 2 - Combined Log.py to find customer segmentation.
