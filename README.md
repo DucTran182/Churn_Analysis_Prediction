@@ -46,4 +46,4 @@ Run 'Task 3 - Feature Engineering.py' for adding more features to define churn i
 Then, run 'Label Created.py' to label as Churn '1' and not Churn '0' among customers based on their sevice interation amount.
 
 ### Model Training
-Run 'Task 4 - Modeling
+Run 'Task 4 - Modeling Training.ipynb' to train the prediction model with Random Forest algorithm.
