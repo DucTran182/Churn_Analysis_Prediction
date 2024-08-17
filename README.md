@@ -24,4 +24,12 @@ To run the model locally, follow these steps:
 ## Implementation Details
 
 ### Parse Log
-
+Run the Task 1 - Parse Log.py to select only all of following features for analyzing:
+1. Mac 
+2. SessionMainMenu
+3. AppName
+4. LogID
+5. Event 
+6. ItemID
+7. RealTimePlaying 
+You will have a new log file with all above features as column name.
