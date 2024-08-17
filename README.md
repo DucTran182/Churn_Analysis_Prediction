@@ -24,7 +24,7 @@ To run the model locally, follow these steps:
 ## Implementation Details
 
 ### Parse Log
-Run the Task 1 - Parse Log.py to select only all of following features for analyzing:
+Run the 'Task 1 - Parse Log.py' to select only all of following features for analyzing:
 1. Mac 
 2. SessionMainMenu
 3. AppName
@@ -36,4 +36,14 @@ Run the Task 1 - Parse Log.py to select only all of following features for analy
 You will have a new log file with all above features as column name.
 
 ### Log Combined
-Join the new log file with user_info.txt using Task 2 - Combined Log.py to find customer segmentation.
+Join the new log file with user_info.txt using 'Task 2 - Combined Log.py' to find customer segmentation.
+
+Then, run the 'Transformed SessionMainMenu.py' to convert the time data type into datetime.
+
+### Feature Engineering
+Run 'Task 3 - Feature Engineering.py' for adding more features to define churn in customers.
+
+Then, run 'Label Created.py' to label as Churn '1' and not Churn '0' among customers based on their sevice interation amount.
+
+### Model Training
+Run 'Task 4 - Modeling
